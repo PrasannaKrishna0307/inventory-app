@@ -1,2 +1,2 @@
-/node_modules
-*.pem
+node_modules/
+inventory-app-key.pem
