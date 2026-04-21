@@ -2,7 +2,7 @@
 
 > A production-grade inventory control system for Indian retail, built and deployed in a single day as a DevOps-focused engineering project.
 
-**Live Demo →** http://65.0.96.101  
+**Live Demo →** http://ec2-65-0-96-101.ap-south-1.compute.amazonaws.com/
 **Credentials →** `admin` / `admin123`  
 **GitHub →** https://github.com/PrasannaKrishna0307/inventory-app
 
